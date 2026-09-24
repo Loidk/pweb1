@@ -343,4 +343,9 @@ footer {
         grid-template-columns: 1fr;
     }
 
+    .contact-list {
+        grid-template-columns: 1fr;
+    }
+
+
 }
